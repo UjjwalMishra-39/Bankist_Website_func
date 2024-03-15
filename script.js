@@ -28,7 +28,7 @@ const closeModal = function () {
 
 const openFunctionality = function (e) {
   e.preventDefault();
-  window.open('/12-Numbers-Dates-Timers-Bankist\\final\\index.html');
+  window.open('https://ujjwalmishra-39.github.io/Bankist/');
 };
 
 btnsOpenModal.forEach(btn => btn.addEventListener('click', openModal));
